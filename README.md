@@ -8,7 +8,7 @@ This repository serves as a live portfolio index showcasing concrete, enterprise
 
 ---
 
-### 1. [Small Business Locator — LocalLink App](https://small-business-locator-8efa5i4di-kliq-hub.vercel.app/)
+### 1.[Small Business Locator](https://small-business-locator.vercel.app/)
 *   **System Architecture**: A hyper-local business discovery web application that maps, categorizes, and tracks independent neighborhood businesses using real-time spatial positioning data.
 *   **Core Mechanics**: HTML5 Geolocation API fallback loop; horizontal category filter pill bar interface; split-screen map and list grid view layout; secure merchant dashboard control forms utilizing atomic profile verification layers.
 *   **Strategic Impact**: Demonstrates proficiency handling live geospatial data queries, cross-device responsive map layouts, complex client-side state filtering, and highly accessible UI/UX.
